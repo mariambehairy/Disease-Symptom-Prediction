@@ -7,11 +7,11 @@ In this project, we developed three different models:
 * Symptom Confidence Prediction: Input a symptom and discover the confidence level of it being a key indicator for a specific disease.
 
 Team members: 
-* Mariam Behairy (Contact: http://www.linkedin.com/in/mariam-behairy-a26277259 )
-* Menna Elminshawy (Contact : https://www.linkedin.com/in/menna-elminshawy-5187a2248)
-* Ahmad Wael Abdelaziz (Contact: LinkedIn: https://www.linkedin.com/in/ahmad-gadalla-717a55242/)
-* Jana Soliman (Contact: https://www.linkedin.com/in/jana-soliman-732a36176)
-* Radwa Belal (Contact: https://www.linkedin.com/in/radwa-belal-969409241)
-* Yassin Ehab (Contact: https://www.linkedin.com/in/yassin-ehab-66310b267 )
+* Mariam Behairy (LinkedIn: http://www.linkedin.com/in/mariam-behairy-a26277259 )
+* Menna Elminshawy (LinkedIn : https://www.linkedin.com/in/menna-elminshawy-5187a2248)
+* Ahmad Wael Abdelaziz (LinkedIn: https://www.linkedin.com/in/ahmad-gadalla-717a55242/)
+* Jana Soliman (LinkedIn: https://www.linkedin.com/in/jana-soliman-732a36176)
+* Radwa Belal (LinkedIn: https://www.linkedin.com/in/radwa-belal-969409241)
+* Yassin Ehab (LinkedIn: https://www.linkedin.com/in/yassin-ehab-66310b267 )
 
 Dataset : https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset
